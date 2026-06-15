@@ -1,0 +1,465 @@
+
+
+LAWS OF SOUTH SUDAN
+CYBERCRIMES AND COMPUTER MISUSE ACT, 2026
+In accordance with the provisions of Article 55 (2) and (3)(b) of the Transitional Constitution of the Republic of South Sudan, 2011 (as amended) the National Legislature, hereby enacts the following:
+
+CHAPTER I
+PRELIMINARY PROVISIONS
+1. Title and Commencement
+This Act shall be cited as “the Cybercrimes and Computer Misuse Act, 2026” and shall come into force on the date of its signature by the President.
+2. Repeal and Saving
+Any legislation governing the subject of this Act is hereby repealed; provided that, all actions taken, proceedings, appointments, orders and regulations made or issued thereunder shall remain in force until they are repealed or amended in accordance with the provisions of this Act.
+3. Purpose
+The Purpose of this Act is;
+(a) To provide for offences relating to computer systems to enable timely and effective detection, prohibition, prevention, investigation and prosecution of computer and cybercrimes.
+(b) To facilitate international cooperation in dealing with computer and cybercrimes matters, and for related purposes.
+4. Authority and Application
+(1) This Act is drafted in accordance with the provisions of Schedule (A) paragraph (45) of the Transitional Constitution of South Sudan, 2011 (as amended).
+(2) The provisions of this Act shall apply to all cybercrimes and computer misuse committed in or outside the Republic of South Sudan.
+5. Interpretations
+In this Act, unless the context otherwise requires:
+“Application” means programme or software used to provide electronic or digital services or execution of what the user may need through any means of information;
+“Authority” means the National Communication Authority established under section 12 of the National Communication Act, 2012;
+“Availability” means the ability to make information and related resources accessible as needed, when they are needed, where they are needed;
+“Access” means instruction, communication with, storing data in, retrieving data from, or otherwise making use of any resources of computer system or communication networks;
+“Communication” means the transmission of information through physical or virtual information communication technologies media;
+“Communication Network” means any connection between more than one system or communication;
+“Communication Structure” means private information systems and other sensitive information for provision of service to the public;
+“Competent Minister” means the Minister responsible for communication;
+“Computer” means an electronic, magnetic, optical, electrochemical, or other data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device;
+“Computer system” means an arrangement of interconnected computers that is designed to perform one or more specific functions, and includes:
+(a) an information system; and
+(b) an operational technologies system, a programmable logic controller, a supervisory control and data acquisition system, or a distributed control system.
+“Computer data” means any representation of facts, information, or concepts in a form suitable for processing in a computer system, including a program suitable to cause a computer system to perform a function and includes electronic documents or electronic data messages whether stored in local computer systems or online;
+“Computer program” means a set of instructions executed by the computer to achieve intended results;
+“Content data” means the communication content of the communication, the meaning or purpose of the communication, or the message or information being conveyed by the communication, other than traffic data;
+“Confidentiality” means the state of keeping or being kept secret or private;
+“Critical Information Infrastructure” means systems, assets, programme or data that are so vital to the country that their destruction would have an impact on the security, national economic security, national public health and safety of the country;
+“Critical Infrastructure” means the processes, systems, facilities, technologies, networks, assets, and services essential to the health, safety, security or economic wellbeing of South Sudanese and the effective functioning of Government;
+“Cyber bullying” Means a hurtful, targeted behavior using digital platforms such as, social media, texts, and an online game. It involves the repeated and intentional use of digital technologies to harass, threaten, embarrass, or target another person;
+“Cybercrime” means any crime committed through information system, networks, software, computer, internet or any related activities;
+“Cyber security” means the state in which a computer or computer system is protected from unauthorised access or attack for the purpose of ensuring that;
+(a) the computer or computer system continues to be available and operational.
+(b) the integrity of the computer or computer system is maintained; and
+(c) the integrity and confidentiality of information stored in, processed by or transmitted through the computer or computer system is maintained.
+“Cyber security Incident” means any act or attempt, successful or unsuccessful, to gain unauthorised access to, disrupt or misuse an information system or information stored on such information system.
+“Cyber security Products” includes:
+(a) a computer;
+(b) a computer system;
+(c) a computer programme; or
+(d) a computer service designed for, or purported to be designed for, ensuring or enhancing the cybersecurity of another computer or computer system.
+“Cyber Terrorism” means criminal acts committed by individual or group to further violence or ideological goals streaming from domestic influences, political, religious, social, racial or environmental nature or associated with, designed foreign terrorist organisation or states sponsor;
+“Cyber Terrorist act” means an act performed in furtherance of a political, ideological, religious, racial or ethnic cause and:
+(a) causes serious bodily harm to a person.
+(b) causes serious damage to property.
+(c) endangers the life of a person.
+(d) creates a serious risk to the health or safety of the public.
+(e) involves the use of firearms or explosives.
+(f) releases into the environment or exposes the public to:
+(i) dangerous, hazardous, radioactive or harmful substances.
+(ii) toxic chemicals; or
+(iii) microbial or other biological agents or toxins.
+(g) is prejudicial to national security or public safety.
+(h) is designed or intended to disrupt:
+(i) a computer system or the provision of services directly related to communications.
+(ii) banking or financial services; or
+(iii) utilities or transportation.
+“Cyber security threat” means an unauthorised effort to adversely impact the security, availability, confidentiality, or integrity of an information system or information that is stored on, processed by, or transiting an information system;
+“Cyberspace” means the connected network of information technology infrastructure comprising telecom networks, the internet, computer networks, information systems, information processing and control systems and databases where people perform social acts without being limited by space and time;
+“Cyber security Service Provider” means a person licensed to provide a cyber security service;
+“Cyber Espionage” Means use of computer device or computer system to obtain secret or confidential information on critical infrastructure, security infrastructure and leadership;
+“Cyber Extortion” cyber extortion is a form of cybercrime where a person threatens to damage, disable, or release a data system, or network, unless a ransom is paid or a demand is made often under the threat of harming or exposing sensitive digital assets;
+“Data” means numbers, letters, symbols or electronic representations of information in any form stored, processed, generated, produced, transferred to a computer or other electronic device;
+“Database” means electronic space in which data and information are organised and stored in a way which enable its retrieval or modification;
+“Device” includes:
+(a) a computer program, code, software or application.
+(b) component of computer system such as graphic card, memory card, chip or processor.
+(c) computer storage component.
+(d) input and output devices.
+“Digital Forensic Expert or Forensic Expert” means an expert with knowledge in the field of digital forensics by training, practice, experience, certification, formal education on digital forensics or other qualifications;
+“Economic Sabotage” Means deliberate use of a computer device or computer system to harm or disrupt an economic interest of the country and individual.
+“Electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic or similar capabilities, and the word “electronically” shall be similarly construed;
+“Electronic Communication” means any transfer of a sign, signal or computer data of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photo electronic, photo optical system in any other similar form physically or virtually;
+“Forensics” means the application of investigative and analytical techniques that conform to evidentiary standards; and are used in, or appropriate for, a court of law or another legal context;
+“Forensic image” also known as a forensic copy, means an exact bit-by-bit copy of a data carrier, including slack, unallocated space and unused space;
+“Forensic Tool” means any investigative tool or device including software or hardware installed on or in relation to a computer system or part of a computer system and used to perform tasks including keystroke logging or collection of investigation information about a use of a computer or computer system by an expert;
+“Hosting Provider” means a person who provides service that run servers connected to internet allowing organisation and individual to serve content or host services connected to internet;
+“Hyperlink” means a symbol, word, phrase, sentence or image that contains path to another source that points to and causes to display other documents when executed;
+“Indecent Content” means any data, information, audio, image, data message, photo, document, video, graphical representation or symbol that is contrary to the norms and traditions;
+“Information” means data, text, images, sounds, codes, computer programs, software and databases;
+“Information System” means a system for generating, sending, receiving, storing, displaying or otherwise processing data messages; and includes the internet or any other information sharing system;
+“Integrity” means accuracy, consistency, and reliability of data;
+“Interception” means listening to, recording, monitoring or surveillance of the content of communication, including procuring of the content of data, either directly through access and use of computers, a computer system or indirectly, through the use of electronic eavesdropping or tapping devices, when communication is occurring;
+“Interfere” means any impairment to the confidentiality, integrity or availability of a computer system, program or data on a computer system, or any act in relation to the computer system, which impairs the operation of the computer system, program, or data;
+“Investigatory Unit” means the National Cybercrime Prosecution Unit established by section 17 of this Act;
+“Means of Communication” means information and communication devices, including computers, or smart devices or similar related devices;
+“Minister” means the Minister responsible for Justice and Constitutional Affairs;
+“Mobile Money” means electronic transfer of funds between mobile phone network subscribers, banks or accounts deposits or withdrawals of funds or payment of Acts or processing financial transactions by mobile devices;
+“National Critical Information Infrastructure” means a vital virtual asset, facility, system, network or process whose incapacity, destruction or modification would have:
+(a) a debilitating impact on the availability, integrity or delivery of essential services including those services, whose integrity, confidentiality, and result in significant loss of life or securities; or
+(b) a yielding impact on national security, defence or the functioning of the state.
+“Network” means a collection of hardware and computers interconnected by communications channels that allow sharing of resources and information;
+“Owner of critical information infrastructure” means the legal owner or operator of the critical information infrastructure and, where the critical information infrastructure is jointly owned by more than one person, includes every joint owner;
+“Password” means any data by which computer service or a computer system is capable of being accessed for use;
+“Pornography” includes the representation in books, magazines, photographs, films, and other media, telecommunication apparatus of scenes of sexual behaviour that are erotic or lewd and are designed to arouse sexual interest;
+“Phishing” means the practice of sending fraudulent communications that appear to come from a legitimate source by email, text message or other forms of communication with the intention to steal money, gain access to sensitive data and login information, or to install malware on the victim’s device;
+“Public key infrastructure” means a system of hardware, software, policies, and procedures used to create, manage, distribute, and revoke digital certificates that verify the ownership of public keys, allowing for secure online communication and authentication between entities;
+“Publish” means distributing, transmitting, disseminating, circulating, delivering, making available, storing, printing, copying, selling or offering in any other way or making available in any way;
+“Reception” means acquisition of data or information contained in any malicious electronic message;
+“Real-time” means the way a computer system receives data and then communicates it or makes it available immediately;
+“Service” means use of image, audio, video or data provided over internet or other electronic means;
+“Service Provider” means:
+(a) a public or private entity that provides to users of its services the means to communicate by use of a computer system; and
+(b) any other entity that processes or stores computer data on behalf of that entity or its users.
+“Spamming” means using messaging systems to send multiple unsolicited messages to a large number of recipients for the purpose of commercial advertising, non-commercial proselytising, or any prohibited purpose;
+“SS-CIRT” means the South Sudan Computer Incident Response Team established pursuant to section 32(1) of this Act;
+“Subscriber Information” means any information contained in the form of data or any form that is held by a service provider, relating to subscribers of its services, other than traffic data or content data, by which can be established by:
+(a) the type of communication service used, the technical provisions taken thereof and the period of use;
+(b) the subscriber’s identity, postal, geographic location, electronic mail address, telephone and other access number, dating and payment information, available based on the service agreement or arrangement; or
+(c) any other information on the site of installation of telecommunication apparatus, available on the basis of the service agreement or arrangement.
+“Traffic data” means any computer data other than the content of the communication, including, but not limited to the communication’s origin, destination, route, time, date, duration, or type of underlying service;
+“Unauthorised access” means access of any kind by a person to a programme or data held in a computer without permission if:
+(a) the person is not personally entitled to control access of the kind in question to the programme or data; and
+(b) the person does not have consent to access the kind of programme or data from the person who is entitled to control access.
+“Webpage” means any sources of information stored electronically which may be accessed through hyperlinks or any internet;
+“Website” means a group of World Wide Web pages usually containing hyperlinks to each other and made available online by an individual, company, educational institution, government or organisation.
+
+CHAPTER II
+OBLIGATIONS OF SERVICE PROVIDERS AND JURISDICTION OF CYBERCRIMES AND COMPUTER MISUSE ACT
+6. Obligations of Service Providers
+(1) Without prejudice to the National Communication Act, 2012 a service provider shall:
+(a) Keep, store, record information system or any means of information technologies for continuous period of 180 days, data to be saved include the following:
+(i) Data that enables the identification of the user of the data service related to information system in which the deals with whenever the service provider is in control.
+(ii) Traffic data.
+(iii) Data on portable devices for any communication.
+(iv) Any other data specified by the National Communication Authority.
+(b) Take reasonable steps to inform its clients of cybercrime threats when affect or may affect its clients.
+(c) Disclose abuse to the concerned victim and to relevant authorities that infractions are committed.
+(d) Maintain confidentiality of the data saved and stored and not disclosing them without an order from competent judicial authority; with the lesser:
+(i) Personal data of any type of those services or any data or information related to the event and the provided account that this users or person entered communication with.
+(ii) Securing data and information in a way that preserves its biography and not penetrating or damaging it.
+(2) Without prejudice to the privacy guaranteed by the Constitution, service providers and its agents are obliged to comply with relevant law enforcement agencies in accordance with technical capabilities in allowing operation of the law.
+(3) Without prejudice to the provisions of Consumer Protection Act, 2011 the service providers shall provide its users and specifically governments agencies, in the form and method that can be easily accessed internet and continuously, the following data and information:
+(a) The name, address, electronic address, information and service provider.
+(b) Any other information that the National Communication Authority considers important for the protection of users.
+7. Jurisdiction of Cybercrimes and Computer Misuse
+Without prejudice to the provisions of the Penal Code, 2008, the provisions of this Act shall apply to a crime committed or created for outside the country, which shall occur in the following cases:
+(a) by any means of transportation including vehicle, aircraft or ship registered in the Republic of South Sudan.
+(b) by a South Sudanese.
+(c) If a victim is a South Sudanese.
+(d) If the preparation, planning, direction, supervision and funding in the Republic of South Sudan.
+(e) If the crime committed by an organised terrorist group that carries out criminal activities in more than one country including the Republic of South Sudan.
+(f) By any person, irrespective of his or her nationality, citizenship or location.
+(g) If the perpetrator of the crime is found in the Republic of South Sudan after its commission and has not been extradited.
+
+CHAPTER III
+INTERNATIONAL COOPERATION
+8. International Cooperation
+(1) The Authority shall in the performance of its functions, promote the security of cyberspace through international co-operation.
+(2) The Authority shall implement relevant measures for the effective implementation and enforcement of international treaties on cybercrime, of which South Sudan is a signatory.
+9. General Principles Relating to International Cooperation
+(1) The Authority may make a request for mutual legal assistance in any criminal matter to a foreign State for the purpose of:
+(a) conducting investigations or proceedings concerning offences related to computer systems, electronic communications or computer data;
+(b) collecting evidence for disclosure in electronic form;
+(c) collecting evidence in electronic form of any criminal offence not limited to offences under this Act; or
+(d) obtaining expeditious preservation and disclosure of data, including traffic data, real-time collection of traffic data associated with specified communications or interception of content data or any other means, powers, function or provisions under this Act.
+(2) For any of the purposes listed in subsection (1)(a) to (d) of this section, a requesting State may make a request for mutual legal assistance to the Authority in any criminal matter.
+(3) Where a request is received under subsection (2) of this section, the Authority may, subject to this Act and any other relevant law, grant the legal assistance requested.
+(4) The Authority may require a requesting State to:
+(a) keep the contents, information and materials provided in a confidential manner;
+(b) only use the contents, information and materials provided for the purpose of the criminal matter specified in the request; and
+(c) use the contents, information and materials subject to such conditions as may be specified.
+(5) Prior to providing any information, the Authority may request that it be kept confidential or only used subject to such conditions as may be specified.
+(6) If the receiving Party cannot comply with such a request, it shall notify the Authority accordingly, which shall then determine whether the information should nevertheless be provided.
+(7) Where, subject to subsections (5) and (6) of this section, a receiving party accepts the information, it shall comply with the conditions specified. 
+16. Mutual Assistance Regarding Interception of Traffic Data
+(1) A requesting State may request the Authority to provide assistance in the interception of traffic data in relation to specified communications transmitted in the Republic of South Sudan by means of a computer system.
+(2) The requesting State shall specify:
+(a) the authority seeking the interception.
+(b) the offence that is the subject of the criminal investigation or proceedings.
+(c) the summary of the related facts.
+(d) the communication to be intercepted.
+(e) the identity or location of the persons concerned, where known.
+(f) the necessity for interception.
+(g) the duration of interception requested; and
+(h) any other relevant information necessary to execute the request.
+(3) The Authority may execute the request in accordance with this Act and any other relevant law.
+(4) The Authority may refuse a request where:
+(a) the request prejudices the sovereignty, security or public interest of the Republic of South Sudan; or
+(b) the request does not comply with the requirements of this Act or any other law.
+
+CHAPTER IV
+ESTABLISHMENT OF THE PROSECUTION UNIT AND PROCEDURAL POWERS OF INVESTIGATION
+17. The National Cybercrime Prosecution Unit
+(1) There shall be established within the Ministry responsible for Justice and Constitutional Affairs, a National Cybercrime Prosecution Unit.
+(2) The Unit shall consist of:
+(a) prosecutors;
+(b) investigators;
+(c) digital forensic experts; and
+(d) any other staff as may be required for the performance of its functions.
+(3) The Unit shall collaborate with relevant government institutions and international bodies in matters relating to cybercrime investigation and prosecution.
+
+18. Powers and Functions of the Unit
+The Unit shall:
+(1) investigate cybercrime offences and related crimes.
+(2) preserve data and evidence.
+(3) obtain information and detect suspects.
+(4) issue and promulgate guidelines, advisories, and procedures in all matters related to cybercrime investigation, forensic evidence recovery, and forensic data analysis consistent with industry standard practices; and
+(5) prescribe forms and templates, including, but not limited to, those for preservation orders, chain of custody, consent to search, consent access to an account or online identity, and request for computer forensic examination.
+
+19. Expedited Preservation and Partial Disclosure of Traffic Data
+(1) Where the investigatory Unit has reasonable grounds to believe that:
+(a) any specified traffic data stored in any computer system or device, or by means of a computer system, is reasonably required for the purpose of a criminal investigation; and
+(b) there is a risk that the traffic data may be modified, lost, destroyed or rendered inaccessible.
+The investigatory Unit shall serve a notice on the person who is in possession or control of the traffic data, requiring the person to:
+(i) undertake expeditious preservation of such available traffic data regardless of whether one or more service providers were involved in the transmission of that communication; or
+(ii) disclose required traffic data concerning that communication in order to identify the service providers and the path through which communication was transmitted.
+(2) The data specified in the notice referred to in subsection (1) of this section shall be preserved and its integrity shall be maintained for a period not exceeding 90 days.
+
+20. Production Order
+(1) Where the disclosure of data is required for the purpose of a criminal investigation or prosecution of an offence, the investigatory Unit may make an application to the Court for an order compelling:
+(a) a person in the Republic of South Sudan to submit specified data in that person’s possession or control, which is stored in a computer system or device.
+(b) any service provider offering its services in the Republic of South Sudan to submit subscriber information in relation to such services in that service provider’s possession or control.
+(2) Where any material, to which an investigation relates, consists of computer data stored in a computer system, the request shall be deemed to require the person to produce or give access to it in a form in which it can be taken away and in which it is easily understood.
+
+21. Powers of Access, Search and Seizure for Purpose of Investigation
+(1) Where the investigatory Unit has reasonable grounds to believe that:
+(a) stored data is relevant for the purpose of an investigation or the prosecution of an offence, it may make an application to court for the issue of a warrant to enter any premises to access, search and seize such data;
+(b) data sought is stored in another computer system or part of it in the Republic of South Sudan territory, and such data is lawfully accessible from or available to the initial system, the investigatory Unit shall expeditiously extend the search or similar access to the other systems.
+(2) The investigatory Unit may, in the execution of a warrant under subsection (1):
+(a) seize or secure a computer system or part of it or a computer data storage medium.
+(b) make and retain a copy of those computer data.
+(c) maintain the integrity of the relevant stored computer data.
+(d) conduct forensic analysis or examination of the computer data storage medium.
+(e) render inaccessible or remove those computer data from the accessed computer system.
+(3) The investigatory Unit may order any person who has knowledge about the functioning of the computer system or measures applied to protect the computer data therein to provide, as reasonable, the necessary information, to enable the undertaking of the measures referred to in subsections (1) and (2) of this section.
+
+22. Real-Time Collection of Traffic Data
+Where the investigatory Unit has reasonable grounds to believe that traffic data is relevant for the purpose of investigation and prosecution of an offence, it may make an application to the Judge in Chambers for an order:
+(a) authorising the collection or recording of traffic data on the Republic of South Sudan territory by technical means, in real-time, associated with specified communications transmitted by means of any computer system.
+(b) compelling a service provider, within its technical capabilities, to:
+(i) effect such collection and recording specified in paragraph (a) of this section; or
+(ii) cooperate with the investigatory Unit to effect such collection and recording.
+(c) compelling a service provider to keep confidential the fact of the execution of any power provided under this section and any information relating to it.
+
+23. Interception of Content Data
+Where the investigatory Unit has reasonable grounds to believe that any content data is relevant for the investigation and prosecution of an offence, it may make an application to the court for an order to:
+(a) collect or record content data in the territory of the Republic of South Sudan by technical means in real-time of specified communications by means of a computer system.
+(b) compel a service provider, within its existing technical capabilities, to:
+(i) collect or record by technical means in the Republic of South Sudan.
+(ii) cooperate and assist the investigatory Unit in the collection or recording of content data in real-time of specified communications in the Republic of South Sudan, transmitted by means of a computer system; or
+(c) compel a service provider to keep the confidentiality of the fact of the execution of any power provided for in this section and any information relating to it.
+
+24. Deletion Order
+The Court may, for the purpose of this Act, upon application by the investigatory Unit, and upon being satisfied that a computer system or any other device contains any unlawful material or activity, order that such computer data be:
+(a) no longer stored on and made available through the computer system or any other device; or
+(b) deleted or destroyed.
+
+25. Limited Use of Disclosed Computer Data and Information
+(1) Computer data obtained under this Act by any person authorised, in writing, by the investigatory Unit shall be used for the purpose of a criminal investigation or the prosecution of an offence, unless such computer data is sought in:
+(a) accordance with any other law.
+(b) compliance with an order from a Court.
+(c) relation to the prevention of injury or other damage to the health of a person or serious loss of, or damage to property; and
+(d) the public interest.
+(2) Subject to subsection (1) of this section any person authorised by the investigatory Unit shall, on receipt of a request, in writing permit a person who had the custody or control of a computer system to access and copy computer data on the computer system.
+(3) A person authorised, in writing, by the investigatory Unit, may refuse to give access to computer data or provide copies of such computer data if he has reasonable grounds to believe that:
+(a) possession of the data constitutes, or may lead to, or assist in, a criminal offence; or
+(b) in connection with which the search was carried out, another ongoing investigation, or any criminal proceedings that are pending or which may be brought in relation to any of those investigations.
+CHAPTER V
+CRITICAL NATIONAL INFRASTRUCTURE
+26. Designation of Critical Infrastructure
+(1) The competent minister may, on the advice of the Authority, designate a computer system or computer network as a critical infrastructure if the minister considers that the computer system or computer network is essential for:
+(a) national security; or
+(b) the economic and social well-being of citizens.
+(2) Where the minister designates a computer system or computer network as a critical infrastructure, the minister shall publish the designation in the Gazette.
+(3) The minister shall, in making a determination under subsection (1) of this section, consider if the computer system or computer network is necessary for:
+(a) the security, defence or international relations of the country;
+(b) the production, preservation of the identity of a confidential source of information related to the enforcement of cybercrime and other related criminal law;
+(c) the provision of services directly related to:
+(i) communications and telecommunications infrastructure,
+(ii) banking and financial services,
+(iii) public utilities,
+(iv) public transportation; and
+(v) public key infrastructure.
+(d) the protection of public safety and public health, including systems related to essential emergency services.
+(e) an international business or communication affecting a citizen of the Republic of South Sudan or any other international business in which a citizen of the Republic of South Sudan or the Government has an interest; or
+(f) the Legislature, Executive, Judiciary, Public Services or security agencies.
+(4) The minister shall, by publication in the Gazette, establish the procedure for the regulation of a critical infrastructure.
+
+27. Registration of Critical Infrastructure
+(1) The Authority shall register a critical infrastructure.
+(2) The Authority shall, by publication, determine:
+(a) the requirements for the registration of a critical infrastructure.
+(b) the procedure for the registration of a critical infrastructure; and
+(c) any other matter relating to the registration of a critical infrastructure.
+(3) Where there is any change in the legal ownership of a registered critical infrastructure, the owner of the registered critical infrastructure shall, within seven days after the change, inform the Authority of the change in ownership.
+(4) An owner of a registered critical infrastructure who contravenes subsection (3) of this section is liable to pay to the Authority the administrative penalty prescribed by the minister.
+
+28. Withdrawal of Designation of Critical Infrastructure
+The Competent Minister may, on the advice of the Authority and by publication in the Gazette, withdraw the designation of a critical infrastructure at any time if the minister considers that the computer system or computer network no longer satisfies the criteria of a critical infrastructure.
+
+29. Management and Compliance Audit of Critical Infrastructure
+(1) The Competent Minister shall prescribe minimum standards for prohibitions in respect of the general management of a critical infrastructure that the minister considers necessary for the protection of national security.
+(2) The Authority shall carry out a periodic audit and inspection on a critical infrastructure to ensure compliance with the provisions of this Act.
+
+30. Duty of Owner of Critical Infrastructure
+(1) An owner of a critical infrastructure shall:
+(a) report a cybersecurity incident within twenty-four hours after the incident is detected to the Authority.
+(b) cause an audit to be performed on a critical infrastructure; and
+(c) submit a copy of the audit report to the Authority.
+(2) An owner of a critical infrastructure who contravenes the provisions of subsection (1) of this section, is liable to pay to the Authority the administrative penalty that may be prescribed by the minister.
+
+31. Access to Critical Infrastructure
+(1) A person shall not without authorisation:
+(a) secure access; or
+(b) attempt to secure access to a computer system or a computer network designated as a critical infrastructure.
+(2) A person who contravenes subsection (1) of this section commits an offence and is liable, upon conviction, to imprisonment for a term prescribed under this Act or any other applicable law.
+
+32. Responsibility of the Authority Relating to Response to Cyber Security Incidents
+(1) The Authority shall establish and maintain a national cyber security incident response framework.
+(2) The Authority shall:
+(a) coordinate responses to cyber security incidents affecting critical infrastructure.
+(b) establish mechanisms for reporting cyber security incidents.
+(c) provide guidance and technical assistance relating to cyber security incident management.
+(d) collaborate with local and international stakeholders on cyber security matters.
+(e) establish the South Sudan Computer Incident Response Team (SS-CIRT).
+(3) The SS-CIRT shall:
+(a) monitor cyber threats and vulnerabilities.
+(b) issue alerts, warnings and advisories regarding cyber threats and incidents.
+(c) facilitate information sharing among stakeholders regarding cyber security risks.
+(d) coordinate national responses to cyber incidents affecting critical infrastructure and national security systems.
+(e) provide technical support and incident response services where necessary.
+
+CHAPTER VI
+OFFENCES AND PENALTIES
+33. Unauthorised Data Transmission
+A person who intentionally transmits computer data to another person or system without lawful authority commits an offence and shall be liable upon conviction to penalties prescribed under this Act.
+34. Unlawful Possession of Devices and Computer Data
+A person who unlawfully possesses:
+(a) a device, including a computer program, designed primarily for committing an offence under this Act; or
+(b) computer data, including passwords or access codes, with intent to commit an offence under this Act,
+commits an offence.
+35. Unauthorised Access to Computer Data
+A person who intentionally accesses computer data or any part of a computer system without authorisation commits an offence.
+36. Unauthorised Disclosure of Password
+A person who knowingly and without lawful excuse discloses any password, access code or similar data capable of granting access to a computer system commits an offence.
+37. Identity Theft and Impersonation
+A person who fraudulently or dishonestly makes use of another person’s identifying information, electronic signature, password or any other unique identifier commits an offence of identity theft and impersonation.
+38. Unauthorised Interception of Computer Service
+A person who intentionally intercepts, monitors or interferes with computer services or communications without lawful authority commits an offence.
+A person who intentionally damages, deletes, deteriorates, alters or suppresses computer data or interferes with the functioning of a computer system commits an offence.
+40. Unauthorised Modification of Computer Data
+A person who intentionally modifies computer data without lawful authority commits an offence.
+41. Infringement of Copyright and Related Rights
+A person who unlawfully reproduces, distributes or makes available copyrighted digital material through a computer system commits an offence under this Act and any other relevant law.
+42. Failure to Moderate Undesirable Content
+A service provider or administrator who knowingly fails to remove or moderate prohibited or undesirable content after notice by the Authority commits an offence.
+43. Distribution of Obscene or Internet Images
+A person who publishes, distributes or transmits obscene images, videos or related materials through electronic means commits an offence.
+44. Publication of False Information
+A person who knowingly publishes false, misleading or fabricated information through a computer system or electronic platform commits an offence.
+45. Incitement Through Computer System
+A person who intentionally uses a computer system, electronic communication or online platform to incite violence, hatred, discrimination, hostility or commission of an offence commits an offence.
+46. Spamming
+(1) A person who knowingly sends multiple unsolicited electronic messages for the purpose of commercial advertising, fraud, harassment or disruption commits an offence.
+(2) A person convicted under subsection (1) is liable to penalties prescribed under this Act.
+47. Phishing
+A person who fraudulently creates, uses or transmits electronic communications, websites, messages or digital platforms with intent to deceive another person into revealing personal, financial or confidential information commits an offence.
+48. Pornography
+A person who knowingly publishes, distributes, transmits, imports, exports, advertises or makes available pornographic material through a computer system commits an offence.
+49. Revenge Pornography
+(1) A person who intentionally publishes, distributes or transmits intimate images, videos or recordings of another person without consent commits an offence.
+(2) A person convicted under subsection (1) is liable to imprisonment, fine or both.
+50. Child Pornography and Related Offences
+(1) A person who:
+(a) produces child pornography for distribution through a computer system;
+(b) offers or makes available child pornography through a computer system;
+(c) distributes or transmits child pornography through a computer system;
+(d) procures child pornography through a computer system for oneself or another person; or
+(e) possesses child pornography in a computer system or computer-data storage medium,
+commits an offence.
+(2) A person convicted under subsection (1) is liable to severe penalties prescribed under this Act and any applicable child protection law.
+51. Offensive Communication
+A person who wilfully and repeatedly uses electronic communication to disturb, threaten, harass or offend another person commits an offence.
+52. Cyberstalking
+A person who uses electronic communication or computer systems to repeatedly follow, monitor, contact or harass another person causing fear or emotional distress commits an offence.
+53. Cyberbullying
+A person who intentionally uses digital technologies, online services or electronic communication to intimidate, threaten, humiliate or harm another person commits an offence.
+54. Cybersquatting
+A person who registers, traffics in or uses a domain name with bad faith intent to profit from the goodwill of another person, business or trademark commits an offence.
+55. Offences Related to Electronic Messages
+A person who knowingly sends electronic messages that:
+(a) contain malicious code;
+(b) deceive recipients;
+(c) impersonate another person; or
+(d) facilitate criminal activity,
+commits an offence.
+56. Cyberterrorism
+(1) A person who unlawfully accesses or interferes with a computer system or critical infrastructure with intent to:
+(a) threaten national security;
+(b) intimidate the public; or
+(c) disrupt essential services,
+commits an offence of cyberterrorism.
+(2) A person convicted under this section is liable to severe penalties including long-term imprisonment.
+57. Cyber Extortion
+A person who threatens to damage, disable, alter, expose or destroy computer systems, data or networks in order to obtain money, property or any benefit commits an offence.
+58. Human Trafficking
+A person who uses a computer system, electronic communication or online platform to facilitate, organise or promote human trafficking commits an offence.
+59. Drug Trafficking
+A person who uses computer systems, digital platforms or electronic communication to facilitate unlawful drug trafficking commits an offence.
+60. Cyber Espionage
+A person who unlawfully accesses, obtains or discloses confidential government, military, security or critical infrastructure information through a computer system commits an offence.
+61. Economic Sabotage
+A person who intentionally uses a computer system or electronic means to disrupt, damage or interfere with the economic interests, financial systems or essential infrastructure of the Republic of South Sudan commits an offence.
+62. Attempt, Conspiracy, Aiding and Abetting
+A person who:
+(a) attempts to commit an offence under this Act;
+(b) conspires with another person to commit an offence; or
+(c) aids, abets, counsels or procures the commission of an offence,
+commits an offence and is liable to the same penalty as prescribed for the principal offence.
+63. Spreading of Computer Virus
+A person who knowingly creates, distributes or introduces malicious software, malware or computer viruses into a computer system commits an offence.
+64. Use of Fake Profile
+A person who creates or uses a fake electronic account, online identity or social media profile with intent to deceive, defraud or harm another person commits an offence.
+65. Computer Related Fraud
+A person who dishonestly or fraudulently causes loss of property, money or data through manipulation of computer systems or electronic communication commits an offence.
+66. Computer Related Forgery
+A person who unlawfully inputs, alters, deletes or suppresses computer data resulting in inauthentic data with intent that it be considered or acted upon as authentic commits an offence.
+67. Cyber Harassment
+A person who intentionally uses electronic communication or computer systems to harass, intimidate or threaten another person commits an offence.
+68. Hacking
+(1) A person who intentionally gains unauthorised access to a computer system, network or data commits an offence of hacking.
+(2) A person convicted under subsection (1) shall be liable to penalties prescribed under this Act.
+69. Cyberattack
+A person who launches, coordinates or participates in an attack against computer systems, networks or critical infrastructure commits an offence.
+70. Hacking Government Institution Information Systems
+A person who unlawfully accesses, interferes with or damages information systems belonging to the Government of South Sudan or public institutions commits an offence.
+71. Creating Fake Emails, Websites and Electronic Accounts
+A person who creates fraudulent emails, websites, domains or electronic accounts intended to impersonate legitimate entities commits an offence.
+72. Hacking E-Payment Devices
+A person who unlawfully accesses, manipulates or interferes with electronic payment systems, mobile money systems, ATMs or related financial technologies commits an offence.
+
+CHAPTER VII
+GENERAL PROVISIONS
+73. Co-Operation
+All public institutions, service providers and relevant stakeholders shall cooperate with the Authority and investigatory agencies in implementing this Act.
+74. General Penalty
+A person who commits an offence under this Act for which no specific penalty is provided shall be liable upon conviction to penalties prescribed by the Court.
+75. Guidelines
+The Authority may issue guidelines, standards, procedures and advisories necessary for implementation of this Act.
+76. Directives
+The Competent Minister or the Authority may issue directives necessary for compliance with this Act.
+77. Administrative Penalties for Contraventions
+The Authority may impose administrative penalties for violations of obligations under this Act in accordance with regulations.
+78. Extradition
+Offences under this Act may constitute extraditable offences subject to applicable extradition laws and international agreements.
+79. Forfeiture
+The Court may order forfeiture of:
+(a) computer systems;
+(b) devices;
+(c) electronic records; or
+(d) proceeds derived from offences under this Act.
+80. Regulations
+The Competent Minister may, on recommendation of the Authority, make regulations necessary for the better carrying out of the provisions of this Act.
+

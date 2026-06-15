@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Navy background -->
+  <circle cx="32" cy="32" r="32" fill="#001f4d"/>
+  <!-- Gold ring -->
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#C9A227" stroke-width="2.5"/>
+  <!-- Center pole -->
+  <rect x="31" y="13" width="2.5" height="38" fill="#C9A227" rx="1.2"/>
+  <!-- Top beam -->
+  <rect x="14" y="18" width="36" height="2.5" fill="#C9A227" rx="1.2"/>
+  <!-- Left chain -->
+  <line x1="19" y1="20.5" x2="19" y2="29" stroke="#C9A227" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Right chain -->
+  <line x1="45" y1="20.5" x2="45" y2="29" stroke="#C9A227" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Left pan -->
+  <path d="M11 29 Q19 35 27 29" stroke="#C9A227" stroke-width="1.8" fill="rgba(201,162,39,0.15)" stroke-linecap="round"/>
+  <!-- Right pan -->
+  <path d="M37 29 Q45 35 53 29" stroke="#C9A227" stroke-width="1.8" fill="rgba(201,162,39,0.15)" stroke-linecap="round"/>
+  <!-- Base platform -->
+  <rect x="25" y="49" width="14" height="2.5" fill="#C9A227" rx="1.2"/>
+</svg>

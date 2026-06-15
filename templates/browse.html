@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Browse Act | Cybercrimes Act 2026{% endblock %}
+
+{% block content %}
+
+<div style="margin-top:24px;" class="chapter-select-wrap">
+  <label for="chapter-sel">Select Chapter</label>
+  <select id="chapter-sel" onchange="location.href='/browse?chapter='+this.value">
+    {% for ch in chapters %}
+    <option value="{{ ch.number }}" {{ 'selected' if ch.number == selected_num }}>
+      Chapter {{ ch.number }} — {{ ch.title.title() }}
+    </option>
+    {% endfor %}
+  </select>
+</div>
+
+{% if chapter %}
+<div class="chapter-header">
+  <div class="ch-label">Chapter {{ chapter.number }}</div>
+  <h3>{{ chapter.title.title() }}</h3>
+</div>
+<p class="chapter-meta">{{ chapter.sections|length }} section{{ 's' if chapter.sections|length != 1 }}</p>
+
+{% for section in chapter.sections %}
+<div class="section-card">
+  <div class="section-card-head">
+    <div class="section-num">Section {{ section.number }}</div>
+    <h4>{{ section.title }}</h4>
+  </div>
+  <div class="section-card-body">{{ section.content }}</div>
+</div>
+{% endfor %}
+
+{% else %}
+<div class="info-banner">No chapter selected. Please choose a chapter from the dropdown above.</div>
+{% endif %}
+
+{% endblock %}

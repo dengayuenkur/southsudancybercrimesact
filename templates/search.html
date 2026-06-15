@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}Search | Cybercrimes Act 2026{% endblock %}
+
+{% block content %}
+
+<h2 class="page-section-title" style="margin-top:24px;">Legal Search Engine</h2>
+
+<form class="search-form" method="GET" action="/search">
+  <div class="search-input-wrap">
+    <input class="search-input" type="text" name="q" value="{{ term }}"
+      placeholder="e.g. hacking, phishing, cyberbullying, penalty …" autocomplete="off">
+  </div>
+  <select class="search-select" name="chapter">
+    <option value="">All Chapters</option>
+    {% for ch in chapters %}
+    <option value="{{ ch.number }}" {{ 'selected' if chapter_filter == ch.number }}>
+      Chapter {{ ch.number }}
+    </option>
+    {% endfor %}
+  </select>
+  <button class="search-btn" type="submit">Search</button>
+</form>
+
+{% if term %}
+  {% if results %}
+  <p class="result-count">
+    {{ results|length }} result{{ 's' if results|length != 1 }} found for "<strong>{{ term }}</strong>"
+  </p>
+  {% for r in results %}
+  <div class="search-result-card">
+    <div class="search-result-head">
+      <div class="result-meta">Chapter {{ r.chapter }} — {{ r.chapter_title.title() }} &nbsp;·&nbsp; Section {{ r.section }}</div>
+      <h4>{{ r.title_hl|safe }}</h4>
+    </div>
+    <div class="search-result-body">{{ r.content_hl|safe }}</div>
+  </div>
+  {% endfor %}
+  {% else %}
+  <p class="result-count none">No results found for "<strong>{{ term }}</strong>". Try a different keyword.</p>
+  {% endif %}
+{% else %}
+<div class="info-banner">
+  Enter a keyword above to search all sections of the Act.
+  You can filter by chapter using the dropdown on the right.
+</div>
+{% endif %}
+
+{% endblock %}

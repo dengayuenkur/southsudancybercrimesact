@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Home | Cybercrimes Act 2026{% endblock %}
+
+{% block content %}
+
+<div class="metrics-row" style="margin-top:24px;">
+  <div class="metric-card">
+    <div class="metric-value">{{ num_chapters }}</div>
+    <div class="metric-label">Chapters</div>
+  </div>
+  <div class="metric-card">
+    <div class="metric-value">{{ num_sections }}</div>
+    <div class="metric-label">Sections</div>
+  </div>
+  <div class="metric-card">
+    <div class="metric-value">{{ num_offences }}</div>
+    <div class="metric-label">Offence Sections</div>
+  </div>
+</div>
+
+<div class="info-banner">
+  📋 This platform provides structured access to the Cybercrimes and Computer Misuse Act, 2026.
+  Use <strong>Browse Act</strong> to read chapters, <strong>Search</strong> to find specific provisions,
+  and <strong>Analytics</strong> for statistical insights.
+</div>
+
+<h2 class="page-section-title">Chapters Overview</h2>
+
+<div class="toc-wrap">
+  {% for ch in chapters %}
+  <div class="toc-row">
+    <span class="toc-num">Chapter {{ ch.number }}</span>
+    <span class="toc-title">{{ ch.title.title() }}</span>
+    <span class="toc-count">{{ ch.sections|length }} section{{ 's' if ch.sections|length != 1 }}</span>
+  </div>
+  {% endfor %}
+</div>
+
+{% endblock %}

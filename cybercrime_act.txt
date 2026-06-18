@@ -173,22 +173,83 @@ INTERNATIONAL COOPERATION
 (5) Prior to providing any information, the Authority may request that it be kept confidential or only used subject to such conditions as may be specified.
 (6) If the receiving Party cannot comply with such a request, it shall notify the Authority accordingly, which shall then determine whether the information should nevertheless be provided.
 (7) Where, subject to subsections (5) and (6) of this section, a receiving party accepts the information, it shall comply with the conditions specified. 
-16. Mutual Assistance Regarding Interception of Traffic Data
-(1) A requesting State may request the Authority to provide assistance in the interception of traffic data in relation to specified communications transmitted in the Republic of South Sudan by means of a computer system.
-(2) The requesting State shall specify:
-(a) the authority seeking the interception.
-(b) the offence that is the subject of the criminal investigation or proceedings.
-(c) the summary of the related facts.
-(d) the communication to be intercepted.
-(e) the identity or location of the persons concerned, where known.
-(f) the necessity for interception.
-(g) the duration of interception requested; and
-(h) any other relevant information necessary to execute the request.
-(3) The Authority may execute the request in accordance with this Act and any other relevant law.
-(4) The Authority may refuse a request where:
-(a) the request prejudices the sovereignty, security or public interest of the Republic of South Sudan; or
-(b) the request does not comply with the requirements of this Act or any other law.
-
+10. Spontaneous Information
+(1) The Authority may, subject to this Act and any other relevant law, without a prior request, forward to a foreign State information obtained within the framework of a South Sudan investigation where it considers that the disclosure of such information may;
+(a) assist the foreign State in initiating or carrying out investigations or proceedings concerning criminal offences related to cybercrime and computer misuse; or
+(b) lead to a request for cooperation by the foreign State under this Act.
+(2) Prior to providing the information under subsection (1) of this section, the Authority may request that such information be kept confidential or disclosed only subject to such conditions as may be specified.
+(3) Where a foreign State does not comply with the conditions specified under subsection (2) of this section, the State shall forthwith notify the Authority.
+(4) The Authority shall, on receipt of a notice under subsection (3) of this section, determine whether the foreign State should be provided the information requested for.
+(5) The Authority may refuse to provide the information where the foreign State does not take the commitment to respect the conditions specified by the Unit.
+11. Expedited Preservation of Stored Computer Data
+(1) A requesting State which intends to make a request for mutual legal assistance for the search or similar access, seizure or similar securing or the disclosure of computer data, may request the Authority to obtain the expeditious preservation of stored computer data located within the territory of South Sudan.
+(2) The requesting State shall, in its request under subsection (1) of this section, specify;
+(a) the name of the authority seeking the preservation.
+(b) the offence that is the subject of a criminal investigation or proceedings and a summary of the related facts.
+(c) the stored computer data to be preserved and its connection to the offence.
+(d) any available information identifying the custodian of the stored computer data or the location of the computer system.
+(e) the necessity of the preservation; and
+(f) the intention to submit a request for mutual assistance for the search or similar access, seizure or similar securing or the disclosure of the stored computer data.
+(3) The Authority shall;
+(a) on receipt of the request under this section, take appropriate measures to preserve the specified data in accordance with the procedures set out in, and powers conferred under this Act and any other relevant legislation.
+(b) The purpose of the preservation of stored computer data effected under this section shall be to enable the State to submit a request for the search or access, seizure or securing, or the disclosure of the data.
+(c) The stored computer data shall be preserved for a period not exceeding 180 days.
+(4) The data shall, on receipt for a request under this section, continue to be preserved pending the final decision being made with regards to that request.
+12. Expedited Disclosure of Preserved Traffic Data
+(1) Where, in the course of executing a request under section 19 with respect to a specified communication, the investigating agency discovers that a service provider in another State was involved in the transmission of the communication, the Authority shall expeditiously disclose to the requesting State a sufficient amount of traffic data to identify that service provider and the path through which the communication was transmitted.
+(2) Disclosure of traffic data under paragraph (a) of this section may only be withheld if the Authority considers that the execution of the request is likely to prejudice the Republic of South Sudan's sovereignty, security, public order or public interest.
+13. Mutual Assistance Regarding Accessing of Stored Computer Data
+(1) A requesting State may request the Inspector General of Police, through the Authority, to search or similarly access, seize or similarly secure, and disclose stored computer data located within the Republic of South Sudan, including computer data that are specified in section 19 of this Act.
+(2) For the purpose of subsection (1) of this section, the requesting State shall;
+(a) provide the name of the authority conducting the investigation or proceedings to which the request relates;
+(b) give a description of the nature of the criminal matter and a statement setting out a summary of the relevant facts and laws;
+(c) give a description of the purpose of the request and the nature of the assistance being sought;
+(d) in the case of a request to restrain or confiscate assets believed, on reasonable grounds, to be located in the Republic of South Sudan, give details of the offence, particulars of the investigation or proceedings commenced in respect of the offence, and be accompanied by a copy of any relevant restraining or confiscation order;
+(e) give details of any procedure that the requesting State wishes to be followed by the Republic of South Sudan in giving effect to the request, particularly in the case of a request to take evidence;
+(f) include a statement setting out any demands of the requesting State concerning any confidentiality relating to the request and the reasons for those demands;
+(g) give details of the period within which the requesting State wishes the request to be complied with.
+(h) where applicable, give details of the property, computer system or device to be traced, restrained, seized or confiscated, and of the grounds for believing that the property is believed to be in the Republic of South Sudan.
+(i) give details of the stored computer data or program to be seized and its relationship to the offence.
+(j) give any available information that may identify the custodian of the stored computer data or the location of the computer system or device.
+(k) include an agreement on the question of the payment of the damages or costs of fulfilling the request; and
+(l) give any other information that may assist in giving effect to the request.
+(3) The Authority shall, on receiving the request under this section, take such appropriate measures as may be required to obtain necessary authorisation, including any warrants, to execute the request in accordance with this Act and any other relevant law.
+(4) Where the Authority obtains the necessary authorisation in accordance with subsection (3) of this section, including any warrants, to execute the request, the Authority may seek the support and cooperation of the requesting State during such search and seizure.
+(5) For the purpose of conducting the search and seizure request, the Authority shall provide to the requesting State, the results of the search and details in respect of any electronic or physical evidence seized.
+(6) The request shall be responded to on an expedited basis where;
+(a) there are grounds to believe that relevant data is particularly vulnerable to loss or modification; or
+(b) any relevant laws so required.
+14. Trans Border Access to Stored Computer Data with Consent or Where Publicly Available
+The investigatory unit may, without the authorisation of another State, and subject to this Act;
+(a) access publicly available stored computer data, regardless of where the data is located geographically; or
+(b) access or receive, through a computer system in the Republic of South Sudan, stored computer data located in another State, if a police officer or authorised person obtains the lawful and voluntary consent of the person who has the lawful authority to disclose the data to the Republic of South Sudan through that computer system.
+15. Mutual Assistance in Real-Time Collection of Traffic Data
+(1) A requesting State may request the Authority to provide assistance in real-time collection of traffic data associated with specified communications in the Republic of South Sudan, transmitted by means of a computer system.
+(2) For the purpose of subsection (1) of this section, the requesting State shall specify;
+(a) the authority seeking the use of powers under this section.
+(b) the offence that is the subject of a criminal investigation or proceedings and a summary of the related facts.
+(c) the name of the authority which has access to the relevant traffic data.
+(d) the location at which the traffic data may be held.
+(e) the intended purpose of requiring the traffic data.
+(f) such information as may be required to identify the traffic data.
+(g) any further details relevant to the traffic data.
+(h) the reason for using powers under this section; and
+(i) the terms and conditions for the use and disclosure of the traffic data to third parties.
+(3) The Authority shall, on receipt of the request under this section, take all appropriate measures to obtain necessary authorisation, including any warrant to execute upon the request in accordance with the procedures and powers provided under this Act and any other relevant law.
+(4) Where the Authority obtains the necessary authorisation, including any warrant to execute upon the request, the Authority may seek the support and cooperation of the requesting State during the collection.
+(5) The Authority shall, upon conducting the measures under this section, and subject to section 22 provide the results to the requesting State.
+16. Mutual Assistance Regarding Interception of Content Data
+(1) A requesting State may request the Authority to provide assistance in the real-time collection or recording of content data of specified communications in South Sudan transmitted by means of a computer system.
+(2) When making a request under subsection (1) of this section, a requesting State shall specify;
+(a) the authority seeking the use of powers under this section.
+(b) the offence that is the subject of a criminal investigation or proceedings and a summary of the related facts.
+(c) the name of the authority with access to the relevant communication.
+(d) the intended duration of the interception.
+(e) the reason for using powers under this section; and
+(f) the terms and conditions of the use and disclosure of the communication to third parties.
+(3) The Authority shall, on receipt of the request under this section, take appropriate measures as may be required to obtain necessary authorisation, including any warrant to execute the request in accordance with this Act and any other relevant legislation.
+(4) Where the Authority obtains the necessary authorisation, including any warrant to execute upon the request, the Unit may seek the support and cooperation of the requesting State during the interception.
+(5) The Authority shall, upon conducting the measures under this section, provide the results to the requesting State.
 CHAPTER IV
 ESTABLISHMENT OF THE PROSECUTION UNIT AND PROCEDURAL POWERS OF INVESTIGATION
 17. The National Cybercrime Prosecution Unit

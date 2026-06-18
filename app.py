@@ -74,11 +74,14 @@ def search_sections(term, chapter_filter=None):
 
 # ── Routes ──────────────────────────────────────────────────
 
+NUM_PENALTIES = sum(1 for s in ALL_SECTIONS if "penalty" in s["title"].lower() or "penalty" in s["content"].lower())
+
 @app.route("/")
 def home():
     return render_template("home.html", active="home",
         num_chapters=NUM_CHAPTERS, num_sections=NUM_SECTIONS,
-        num_offences=NUM_OFFENCES, chapters=ACT_DATA["chapters"])
+        num_offences=NUM_OFFENCES, num_penalties=NUM_PENALTIES,
+        chapters=ACT_DATA["chapters"])
 
 @app.route("/browse")
 def browse():

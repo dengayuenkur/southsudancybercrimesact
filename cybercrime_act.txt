@@ -330,197 +330,292 @@ The Court may, for the purpose of this Act, upon application by the investigator
 CHAPTER V
 CRITICAL NATIONAL INFRASTRUCTURE
 26. Designation of Critical Infrastructure
-(1) The competent minister may, on the advice of the Authority, designate a computer system or computer network as a critical infrastructure if the minister considers that the computer system or computer network is essential for:
-(a) national security; or
+(1) The competent minister may, on the advice of the Authority, designate a computer system or computer network as a critical infrastructure if the minister considers that the computer system or computer network is essential for;
+(a) national security, or
 (b) the economic and social well-being of citizens.
 (2) Where the minister designates a computer system or computer network as a critical infrastructure, the minister shall publish the designation in the Gazette.
-(3) The minister shall, in making a determination under subsection (1) of this section, consider if the computer system or computer network is necessary for:
-(a) the security, defence or international relations of the country;
-(b) the production, preservation of the identity of a confidential source of information related to the enforcement of cybercrime and other related criminal law;
-(c) the provision of services directly related to:
-(i) communications and telecommunications infrastructure,
-(ii) banking and financial services,
-(iii) public utilities,
-(iv) public transportation; and
-(v) public key infrastructure.
+(3) The minister shall, in making a determination under subsection (1) of this section, consider if the computer system or computer network is necessary for;
+(a) the security, defence or international relations of the country,
+(b) the production, preservation of the identity of a confidential source of information related to the enforcement of cybercrime and other related criminal law,
+(c) the provision of services directly related to;
+
+    (i) communications and telecommunications infrastructure,
+
+    (ii) banking and financial services,
+
+    (iii) public utilities,
+
+    (iv) public transportation; and
+
+    (v) public key infrastructure.
 (d) the protection of public safety and public health, including systems related to essential emergency services.
 (e) an international business or communication affecting a citizen of the Republic of South Sudan or any other international business in which a citizen of the Republic of South Sudan or the Government has an interest; or
 (f) the Legislature, Executive, Judiciary, Public Services or security agencies.
 (4) The minister shall, by publication in the Gazette, establish the procedure for the regulation of a critical infrastructure.
-
 27. Registration of Critical Infrastructure
 (1) The Authority shall register a critical infrastructure.
-(2) The Authority shall, by publication, determine:
+(2) The Authority shall, by publication, determine;
 (a) the requirements for the registration of a critical infrastructure.
 (b) the procedure for the registration of a critical infrastructure; and
 (c) any other matter relating to the registration of a critical infrastructure.
 (3) Where there is any change in the legal ownership of a registered critical infrastructure, the owner of the registered critical infrastructure shall, within seven days after the change, inform the Authority of the change in ownership.
 (4) An owner of a registered critical infrastructure who contravenes subsection (3) of this section is liable to pay to the Authority the administrative penalty prescribed by the minister.
-
 28. Withdrawal of Designation of Critical Infrastructure
 The Competent Minister may, on the advice of the Authority and by publication in the Gazette, withdraw the designation of a critical infrastructure at any time if the minister considers that the computer system or computer network no longer satisfies the criteria of a critical infrastructure.
-
 29. Management and Compliance Audit of Critical Infrastructure
 (1) The Competent Minister shall prescribe minimum standards for prohibitions in respect of the general management of a critical infrastructure that the minister considers necessary for the protection of national security.
 (2) The Authority shall carry out a periodic audit and inspection on a critical infrastructure to ensure compliance with the provisions of this Act.
-
 30. Duty of Owner of Critical Infrastructure
-(1) An owner of a critical infrastructure shall:
+(1) An owner of a critical infrastructure shall;
 (a) report a cybersecurity incident within twenty-four hours after the incident is detected to the Authority.
 (b) cause an audit to be performed on a critical infrastructure; and
 (c) submit a copy of the audit report to the Authority.
 (2) An owner of a critical infrastructure who contravenes the provisions of subsection (1) of this section, is liable to pay to the Authority the administrative penalty that may be prescribed by the minister.
-
 31. Access to Critical Infrastructure
-(1) A person shall not without authorisation:
-(a) secure access; or
+(1) A person shall not without authorisation;
+(a) secure access, or
 (b) attempt to secure access to a computer system or a computer network designated as a critical infrastructure.
-(2) A person who contravenes subsection (1) of this section commits an offence and is liable, upon conviction, to imprisonment for a term prescribed under this Act or any other applicable law.
+(2) A person who contravenes subsection (1) of this section commits an offence and shall be liable upon conviction to a fine or a term of imprisonment not exceeding five years, or both.
+(3) Where the offence committed under subsection (1) of this section;
+(a) results in a serious bodily injury, financial loss or damage to the computer system or computer network designated as a critical information infrastructure, the person who committed the offence;
 
-32. Responsibility of the Authority Relating to Response to Cyber Security Incidents
-(1) The Authority shall establish and maintain a national cyber security incident response framework.
-(2) The Authority shall:
-(a) coordinate responses to cyber security incidents affecting critical infrastructure.
-(b) establish mechanisms for reporting cyber security incidents.
-(c) provide guidance and technical assistance relating to cyber security incident management.
-(d) collaborate with local and international stakeholders on cyber security matters.
-(e) establish the South Sudan Computer Incident Response Team (SS-CIRT).
-(3) The SS-CIRT shall:
-(a) monitor cyber threats and vulnerabilities.
-(b) issue alerts, warnings and advisories regarding cyber threats and incidents.
-(c) facilitate information sharing among stakeholders regarding cyber security risks.
-(d) coordinate national responses to cyber incidents affecting critical infrastructure and national security systems.
-(e) provide technical support and incident response services where necessary.
+    (i) in the case of an individual, shall be liable upon conviction to a fine or a term of imprisonment not exceeding fifteen years or both;
 
+    (ii) in the case of a body corporate, a partnership or a firm shall be liable upon conviction to a fine.
+(b) is deemed to be a terrorist act, the person who committed the offence shall be liable upon conviction to a term of imprisonment of not exceeding twenty-five years.
+(4) Where an offence under subsection (3) of this section is committed by a body corporate or by a member of a partnership or other firm, every director or officer of that body corporate or a member of the partnership or any other person concerned with the management of the firm is deemed to have committed that offence shall be liable upon conviction to a fine;
+(5) A person shall not be convicted of an offence by virtue of subsection (4) of this section if it is proved that;
+(a) due diligence was exercised to prevent the commission of the offence; and
+(b) the offence was committed without the knowledge, consent or connivance of that person.
+32. Responsibility of the Authority Relating to Response to Cybersecurity Incident
+(1) The Authority shall establish a national computer incident response team coordination centre (SS-CIRT/CC) to serve as a point of contact to identify, defend, respond and resolve cybersecurity incidents.
+(2) The cybersecurity coordination centre (SS-CIRT/CC) shall serve as the focal point for all instances of cybersecurity incidents by:
+(a) providing technical analysis of computer security incidents,
+(b) conducting awareness campaigns and training programs, empowering individuals, and organizations with the knowledge to protect themselves against cyber threats,
+(c) issuing relevant alerts and advisories on emerging threats to computer security thus helping individuals and organizations enhance their cybersecurity posture,
+(d) providing timely, actionable insights into emerging threats and vulnerabilities,
+(e) coordinating cyber security incident responses with trusted third parties.
+(3) The cybersecurity coordination centre shall establish a cyber security incident reporting and information sharing platform to enable public to report a cybersecurity incident.
 CHAPTER VI
 OFFENCES AND PENALTIES
-33. Unauthorised Data Transmission
-A person who intentionally transmits computer data to another person or system without lawful authority commits an offence and shall be liable upon conviction to penalties prescribed under this Act.
+33. Unauthorized Data Transmission
+(1) A person who, intentionally and without lawful authority or consent;
+(a) communicates, discloses, transmits, or makes available any computer data, information system program, access code, or command to another person knowing that such transmission is unauthorized; or
+(b) intentionally and unlawfully receives or uses computer data obtained in the manner described in paragraph (a), commits an offence.
+(2) A person convicted under subsection (1)(a) of this section shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years or both.
 34. Unlawful Possession of Devices and Computer Data
-A person who unlawfully possesses:
-(a) a device, including a computer program, designed primarily for committing an offence under this Act; or
-(b) computer data, including passwords or access codes, with intent to commit an offence under this Act,
-commits an offence.
-35. Unauthorised Access to Computer Data
-A person who intentionally accesses computer data or any part of a computer system without authorisation commits an offence.
-36. Unauthorised Disclosure of Password
-A person who knowingly and without lawful excuse discloses any password, access code or similar data capable of granting access to a computer system commits an offence.
-37. Identity Theft and Impersonation
-A person who fraudulently or dishonestly makes use of another person’s identifying information, electronic signature, password or any other unique identifier commits an offence of identity theft and impersonation.
-38. Unauthorised Interception of Computer Service
-A person who intentionally intercepts, monitors or interferes with computer services or communications without lawful authority commits an offence.
-A person who intentionally damages, deletes, deteriorates, alters or suppresses computer data or interferes with the functioning of a computer system commits an offence.
-40. Unauthorised Modification of Computer Data
-A person who intentionally modifies computer data without lawful authority commits an offence.
-41. Infringement of Copyright and Related Rights
-A person who unlawfully reproduces, distributes or makes available copyrighted digital material through a computer system commits an offence under this Act and any other relevant law.
-42. Failure to Moderate Undesirable Content
-A service provider or administrator who knowingly fails to remove or moderate prohibited or undesirable content after notice by the Authority commits an offence.
-43. Distribution of Obscene or Internet Images
-A person who publishes, distributes or transmits obscene images, videos or related materials through electronic means commits an offence.
-44. Publication of False Information
-A person who knowingly publishes false, misleading or fabricated information through a computer system or electronic platform commits an offence.
-45. Incitement Through Computer System
-A person who intentionally uses a computer system, electronic communication or online platform to incite violence, hatred, discrimination, hostility or commission of an offence commits an offence.
-46. Spamming
-(1) A person who knowingly sends multiple unsolicited electronic messages for the purpose of commercial advertising, fraud, harassment or disruption commits an offence.
-(2) A person convicted under subsection (1) is liable to penalties prescribed under this Act.
-47. Phishing
-A person who fraudulently creates, uses or transmits electronic communications, websites, messages or digital platforms with intent to deceive another person into revealing personal, financial or confidential information commits an offence.
-48. Pornography
-A person who knowingly publishes, distributes, transmits, imports, exports, advertises or makes available pornographic material through a computer system commits an offence.
-49. Revenge Pornography
-(1) A person who intentionally publishes, distributes or transmits intimate images, videos or recordings of another person without consent commits an offence.
-(2) A person convicted under subsection (1) is liable to imprisonment, fine or both.
-50. Child Pornography and Related Offences
 (1) A person who:
-(a) produces child pornography for distribution through a computer system;
-(b) offers or makes available child pornography through a computer system;
-(c) distributes or transmits child pornography through a computer system;
-(d) procures child pornography through a computer system for oneself or another person; or
-(e) possesses child pornography in a computer system or computer-data storage medium,
-commits an offence.
-(2) A person convicted under subsection (1) is liable to severe penalties prescribed under this Act and any applicable child protection law.
-51. Offensive Communication
-A person who wilfully and repeatedly uses electronic communication to disturb, threaten, harass or offend another person commits an offence.
-52. Cyberstalking
-A person who uses electronic communication or computer systems to repeatedly follow, monitor, contact or harass another person causing fear or emotional distress commits an offence.
-53. Cyberbullying
-A person who intentionally uses digital technologies, online services or electronic communication to intimidate, threaten, humiliate or harm another person commits an offence.
-54. Cybersquatting
-A person who registers, traffics in or uses a domain name with bad faith intent to profit from the goodwill of another person, business or trademark commits an offence.
-55. Offences Related to Electronic Messages
-A person who knowingly sends electronic messages that:
-(a) contain malicious code;
-(b) deceive recipients;
-(c) impersonate another person; or
-(d) facilitate criminal activity,
-commits an offence.
-56. Cyberterrorism
-(1) A person who unlawfully accesses or interferes with a computer system or critical infrastructure with intent to:
-(a) threaten national security;
-(b) intimidate the public; or
-(c) disrupt essential services,
-commits an offence of cyberterrorism.
-(2) A person convicted under this section is liable to severe penalties including long-term imprisonment.
-57. Cyber Extortion
-A person who threatens to damage, disable, alter, expose or destroy computer systems, data or networks in order to obtain money, property or any benefit commits an offence.
-58. Human Trafficking
-A person who uses a computer system, electronic communication or online platform to facilitate, organise or promote human trafficking commits an offence.
-59. Drug Trafficking
-A person who uses computer systems, digital platforms or electronic communication to facilitate unlawful drug trafficking commits an offence.
-60. Cyber Espionage
-A person who unlawfully accesses, obtains or discloses confidential government, military, security or critical infrastructure information through a computer system commits an offence.
-61. Economic Sabotage
-A person who intentionally uses a computer system or electronic means to disrupt, damage or interfere with the economic interests, financial systems or essential infrastructure of the Republic of South Sudan commits an offence.
-62. Attempt, Conspiracy, Aiding and Abetting
+(a) intentionally manufactures, sells, procures for use, imports, distributes or otherwise makes available, a computer system, computer data or any other device, designed or adapted primarily for the purpose of committing any offence under this Act commits an offence.
+(b) intentionally and without authorisation, receives or is in possession of devices and computer data under subsection (a) of this section commits an offence.
+(c) a person who commits an offence under this section shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+(2) In this section, possession of any computer data includes;
+(a) having possession of a computer system or device that holds or contains the computer data or computer program.
+(b) having possession of a document in which the computer data or computer program is recorded; or
+(c) having control of computer data or computer program that is in the possession of another person.
+35. Unauthorised Access to Computer Data
+(1) Any person who gains unauthorised access to any program or data held in a computer system commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding three years, or both;
+(2) Access by a person to a computer system is unauthorised where the person is not entitled to control access of the kind in question and not authorized to access.
+(3) For the purpose of this section, it is immaterial that the unauthorised access is not directed at;
+(a) any particular program or data;
+(b) a program or data of any kind; or
+(c) a program or data held in any particular computer system.
+(4) A person is not liable under subsection (1) of this section if that person;
+(a) has a right to control the operation or use of the computer system and exercises such right in good faith;
+(b) has expressed or implied consent of the person empowered to authorise him to have such an access;
+(c) has reasonable grounds to believe that the person had such consent as specified in paragraph (b) of this section;
+(d) is acting pursuant to measures that can be taken under this Act; or
+(e) is acting in reliance of any statutory power arising under any enactment for the purpose of obtaining information, or of taking possession of any document or other property.
+36. Unauthorised Disclosure of Password
+A person who, intentionally and without authorisation, discloses any password, access code, biometric authentication, token, two-factor authentication, multi-factor authentication or any other means of gaining access to any computer program or computer data held in any computer system for its production, sale, procurement for use, import or distribution commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
+37. Identity Theft and Impersonation
 A person who:
-(a) attempts to commit an offence under this Act;
-(b) conspires with another person to commit an offence; or
-(c) aids, abets, counsels or procures the commission of an offence,
-commits an offence and is liable to the same penalty as prescribed for the principal offence.
-63. Spreading of Computer Virus
-A person who knowingly creates, distributes or introduces malicious software, malware or computer viruses into a computer system commits an offence.
-64. Use of Fake Profile
-A person who creates or uses a fake electronic account, online identity or social media profile with intent to deceive, defraud or harm another person commits an offence.
-65. Computer Related Fraud
-A person who dishonestly or fraudulently causes loss of property, money or data through manipulation of computer systems or electronic communication commits an offence.
-66. Computer Related Forgery
-A person who unlawfully inputs, alters, deletes or suppresses computer data resulting in inauthentic data with intent that it be considered or acted upon as authentic commits an offence.
-67. Cyber Harassment
-A person who intentionally uses electronic communication or computer systems to harass, intimidate or threaten another person commits an offence.
-68. Hacking
-(1) A person who intentionally gains unauthorised access to a computer system, network or data commits an offence of hacking.
-(2) A person convicted under subsection (1) shall be liable to penalties prescribed under this Act.
-69. Cyberattack
-A person who launches, coordinates or participates in an attack against computer systems, networks or critical infrastructure commits an offence.
-70. Hacking Government Institution Information Systems
-A person who unlawfully accesses, interferes with or damages information systems belonging to the Government of South Sudan or public institutions commits an offence.
-71. Creating Fake Emails, Websites and Electronic Accounts
-A person who creates fraudulent emails, websites, domains or electronic accounts intended to impersonate legitimate entities commits an offence.
-72. Hacking E-Payment Devices
-A person who unlawfully accesses, manipulates or interferes with electronic payment systems, mobile money systems, ATMs or related financial technologies commits an offence.
+(a) intentionally uses somebody's identity over the internet in bad faith to profit, mislead or destroy reputation, if such identity is similar, undistinguishable, or confusingly similar to an existing name or description that belongs to another person or organ;
+(b) knowingly or wilfully, while not being a manufacturer of a computer system or an authorized agent of the manufacturer, changes computer system equipment identity or the process of accessing to it;
+(c) fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person commits an offence and shall be liable to a fine or imprisonment for a term not exceeding fifteen years, or both.
+38. Unauthorised Interception of Computer Service
+(1) A person who, by any technical means, wilfully intercepts or causes to be intercepted without authorisation, any computer data, or electromagnetic emissions carrying computer data, or non-public transmissions to, from or within a computer system commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding seven years, or both.
+(2) Where, as a result of the commission of an offence under subsection (1) of this section, the operation of the computer system is impaired, or transmitted computer data is suppressed or modified, a person convicted of that offence shall be liable to a fine or imprisonment for a term not exceeding three years, or both.
+(3) For the purpose of this section, it is immaterial that the unauthorised interception is not directed at;
+(a) any particular program or data;
+(b) a program or data of any kind; or
+(c) is acting in the performance of his lawful duties, contractual obligations or is discharging any legal obligation.
+39. Unauthorised Interference
+(1) A person who, intentionally and without authorisation, hinders the functioning of a computer system by inputting, transmitting, damaging, deleting, deteriorating, altering or suppressing computer commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+(2) For the purpose of this section, an interference is unauthorised if the person whose act causes the interference is not permitted to cause that interference.
+(3) A person who commits an offence under subsection (1) of this section which:
+(a) results in financial loss to any person or organisation;
+(b) threatens national security;
+(c) causes reputational damage to any person;
+(d) causes physical or mental injury to, or the death of, any person;
+(e) causes, directly or indirectly, degradation, failure, interruption or obstruction of the operation of a computer system; or
+(f) threatens public health or public safety, is liable on conviction, to a fine not exceeding seventy-five million South Sudan pounds or to a term of imprisonment not exceeding ten years, or both;
+(4) For the purpose of this section, it is immaterial whether or not the unauthorised interference is directed at;
+(a) any particular computer system, program or data;
+(b) a program or data of any kind; or
+(c) a program or data held in any computer system.
+(5) For the purpose of this section, it is immaterial that an unauthorised interference or any intended effect of it is permanent or temporary.
+40. Unauthorised Modification of Computer Data
+(1) Any person who, intentionally and without authorisation, modifies computer data commits an offence and shall be liable upon conviction to a fine or of imprisonment for a term not exceeding eight years, or both.
+(2) Where, as a result of the commission of an offence under this section;
+(a) the operation of the computer system;
+(b) access to any computer program or computer data held in any computer; or
+(c) the operation of any computer program or the reliability of any such computer data, is suppressed, modified or otherwise impaired, a person who is convicted of the offence shall be liable to a fine or imprisonment for a term not exceeding eight years or both;
+(3) A modification is unauthorised if the person whose act causes the modifications, is not permitted to cause such modifications.
+(4) For the purpose of this section, it is immaterial whether an unauthorised modification, or any intended effect of it, is permanent or temporary.
+41. Infringement of Copyright and Related Rights
+(1) A person who, without the express authorisation of the author or owner of the copyright;
+(a) attempts to use, publish or distribute another person's work for commercial purpose, through a computer system;
+(b) downloads movies, music files or pirated software applications for gain or against remuneration; or
+(c) posts a copyrighted work such as writing or graphics, online for gain or remuneration, commits an offence.
+(2) A person convicted under subsection (1) of this section, on;
+(a) a first conviction shall be liable to a fine or imprisonment for a term not exceeding two years; and
+(b) on a second or subsequent conviction, shall be liable to a fine or imprisonment for a term not exceeding seven years, or both.
+42. Failure to Moderate Undesirable Content
+(1) An administrator of an online account or platform upon receipt of a written notice or order from an authorised investigating or regulatory authority, takes reasonable steps to restrict or remove access to unlawful content specified in the notice within a prescribed period.
+(2) An administrator who fails to comply with subsection (1) of this section, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
+(3) For the purpose of this section "undesirable content" includes any online content that;
+(a) is deceptive or inaccurate, posted with intent to defame, threaten, abuse or mislead the public;
+(b) threatens public health or public safety;
+(c) threatens national security; or
+(d) promotes racism;
+(e) Promotes Tribalism;
+(f) Gender discrimination or bias.
+43. Distribution of Obscene or Intimate Images
+A person who intentionally, through a telecommunications network or any other means of transferring data to a computer, transfers, publishes, disseminates, makes available for distribution, intentionally downloading a digital depiction that is intimate or obscene, images or sound recording or video of another person without that person's consent, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+44. Publication of False Information
+A person who, through a computer system or network, intentionally publishes, disseminates or makes available information that the person knows to be false or misleading, with the intent that the information be acted upon or regarded as authentic, and the publication results in or is likely to result in any of the following;
+(a) public panic, violence or serious public disorder;
+(b) economic loss;
+(c) damage to the reputation of any person or group of persons, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years or both.
+45. Incitement Through Computer Systems
+A person who incites another person or group of persons based on race, color, descent, nationality, gender, ethnic origin or religion through a computer system to commit violence or discrimination against another person or group of persons commits an offence and upon conviction shall be sentenced to imprisonment for a term not exceeding ten years or a fine, or both.
+46. Spamming
+(1) A person who, intentionally and without the consent of recipients, initiates the transmission of large-scale or repeated electronic messages through a computer system with intent to;
+(a) deceive or defraud any person; or
+(b) cause interference, disruption, or loss to any computer system or network commits an offence.
+(2) Commercial or promotional messages sent with a valid opt-out mechanism shall not constitute an offence.
+(3) A person convicted under this section shall be liable to a fine or imprisonment for a term not exceeding three years, or both.
+47. Phishing
+A person who knowingly or intentionally;
+(a) initiates the transmission of unsolicited messages;
+(b) relays or retransmit unsolicited messages; or
+(c) falsifies header information in unsolicited messages;
+commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
+48. Pornography
+A person who publishes or causes to publish pornographic photos, videos, books, magazines, films and other media through a computer system or any other information and communication technologies commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+49. Revenge Pornography
+A person who, by means of a computer system, discloses or publishes a sexual photograph or film without the concept of the person who appears in the photographs or film, and with the intent of causing that person distress, commits an offence and shall be liable to a fine or imprisonment for a term not exceeding ten years, or both.
+50. Child Pornography and Related Offences
+(1) A person who intentionally uses any computer system or network in or for;
+(a) producing child pornography.
+(b) distributing or transmitting child pornography.
+(c) procuring child pornography for oneself or for another person.
+(d) possessing child pornography in a computer system or on a computer-data storage medium:
+commits an offence under this Act is liable upon conviction;
+    (i) in the case of paragraphs (a), (b) and (c) of this subsection to a fine or imprisonment for a term not exceeding fifteen years or both; and
+    (ii) in the case of paragraph (d) of this subsection, to a fine or imprisonment for a term not exceeding ten years or both.
+(2) A person who, intentionally proposes, grooms or solicits, through any computer system or network, to meet a child for the purpose of engaging in sexual activities with the child by;
+(a) use of coercion, inducement, force or threats;
+(b) abuse of a recognized position of trust, authority or influence over the child, including within the family;
+(c) abuse is made of a particularly vulnerable situation of the child, mental or physical disability or a situation of dependence; or
+(d) recruiting, inducing, coercing, exposing, or causing a child to participate in pornographic performances or profiting from or otherwise exploiting a child for such purposes;
+commits an offence under this Act and shall be liable upon conviction to a fine or imprisonment for a term not exceeding fifteen years, or both.
+(3) For the purpose of subsection (1) of this section, the term "child pornography" includes pornographic material that visually depicts;
+(a) a minor engaged in sexually explicit conduct;
+(b) a person appearing to be a minor engaged in sexually explicit conduct; and
+(c) realistic images representing a minor engaged in sexually explicit conduct.
+51. Offensive Communication
+A person who intentionally uses electronic devices to pass communication that is deemed harmful, abusive, or inappropriate, potentially causing harm or distress to others, commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding two years, or both.
+52. Cyberstalking
+A person who intentionally and repeatedly uses electronic communication to track or monitor with intent to harass or cause fear to another person commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding four years, or both.
+53. Cyberbullying
+A person who, individually or with other persons, commits cyberbullying, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+54. Cybersquatting
+A person who intentionally takes or makes use of a name, business name, trademark, domain name or other word or phrase registered, owned or in use by another person on the internet or any other computer network without consent commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding three years, or both.
+55. Offences Related to Electronic Messages
+A person who:
+(a) unlawfully induces any person in charge of electronic devices to deliver any electronic messages not specifically meant for him or her;
+(b) unlawfully hides or detains any electronic mail, message, electronic payment, credit and debit card which was found by the person or delivered to the person in error and which ought to be delivered to another person;
+(c) unlawfully destroys or aborts any electronic mail or processes through which money or information is being conveyed;
+(d) transfers, publishes, or disseminates, including making a digital depiction available for distribution or downloading through a telecommunications network or through any other means of transferring data to a computer, the intimate or obscene image of another person;
+(e) knowingly and without authority causes any loss of property to another by altering, erasing, inputting or suppressing any data stored in a computer;
+(f) sends an electronic message which materially misrepresents any fact upon which reliance by another person is caused to suffer any damage or loss;
+(g) with intent to defraud, franks electronic messages, instructions, subscribes any electronic messages or instructions; or
+(h) manipulates a computer or other electronic payment device with the intent to short pay or overpay.
+commits an offence and upon conviction shall be liable to fine or imprisonment for a term not exceeding three years, or both.
 
+Offences that Threaten National Security and Other Serious Crimes
+56. Cyberterrorism
+A person who intentionally accesses or causes to be accessed a computer system or network for the purpose of carrying out an act of terrorism, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding twenty years, or both.
+57. Cyber Extortion
+A person who engages in cyber extortion commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding ten years, or both.
+58. Human Trafficking
+A person who establishes, publishes or shares information using a computer or computer system for the purposes of trafficking human beings or facilitating such a transaction commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding seven years, or both.
+59. Drug Trafficking
+A person who creates, publishes or shares information using a computer or computer system for the purposes of trafficking in or distributing drugs or narcotics or facilitating such transaction commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding ten years, or both.
+60. Cyber Espionage
+A person who uses a computer or computer system to conduct espionage activities commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding twenty years, or both.
+61. Economic Sabotage
+A person who uses a computer or a computer system to engage in activities related to economic sabotage including, but not limited to, tax evasion, interference with revenue collection or its disbursement and money laundering commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding seven years, or both.
+62. Attempt, Conspiracy, Aiding and Abetting
+A person who;
+(a) attempts to commit any offence under this Act; or aids, abets, conspires, counsels or procures another person(s) to commit any offence under this Act commits an offence and shall be liable upon conviction to the punishment provided for the principal offence under this Act;
+(b) An employee of a financial institution found to have connived with another person or group of persons to perpetrate fraud using computer system(s) or network, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term of not exceeding seven years and shall in addition, refund the stolen money or forfeit any property to which it has been converted to the bank, financial institution or the customer.
+63. Spreading of Computer Virus
+A person who, engages in malicious or deliberate spread of viruses or any malware thereby causing damage to critical information in public, private or financial institution's computers commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding three years or both.
+64. Use of Fake Profile
+A person who, individually or with other persons, makes use of a fake profile to cause harm, commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
+65. Computer Related Fraud
+A person who, intentionally and without authorisation, causes loss of property to another person by;
+(a) any input, alteration, deletion, delaying transmission or suppression of computer data; or
+(b) any interference with the functioning of a computer system, to procure on their behalf or on behalf of another person, any form of advantage, commits an offence and shall be liable upon conviction to a fine three times the value of undue advantage received, whichever is greater, or imprisonment for a term not exceeding ten years, or both.
+66. Computer-related Forgery
+(1) A person who, intentionally and without authorisation, inputs, alters, deletes, or suppresses computer data, resulting in inauthentic data, with the intent that it be considered or acted upon for legal purposes as if it were authentic, regardless of whether or not the data is directly readable and intelligible, commits an offence and shall be liable upon conviction to a fine three times the value of undue advantage received, whichever is greater, or imprisonment for a term not exceeding ten years, or both.
+(2) A person who performs the acts described under this subsection (1) of this section;
+(a) for wrongful gain;
+(b) for wrongful loss to another person; or
+(c) for any benefit for oneself or for another person,
+shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
+67. Cyber Harassment
+A person who intentionally uses a computer system, electronic communication, or any digital platform to threaten, insult, demean, or otherwise cause psychological distress, fear, or emotional harm to another person, commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding five years, or both.
+68. Hacking
+A person who intentionally accesses or causes access to a computer system, computer program, data, or network without lawful authority or permission commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding ten years, or both.
+69. Cyberattack
+A person who intentionally initiates, carries out, or attempts to carry out a cyberattack against a computer system, computer network, data, or critical information infrastructure, including through malware, viruses, denial-of-service attacks, ransomware, or any other harmful technological means, commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding fifteen years, or both.
+70. Hacking the Government Institutions Information Systems
+A person who intentionally and without lawful authority accesses, attempts to access, interferes with, or causes any form of unauthorized intrusion into the information system, database, network, or digital infrastructure of any Government Institution of the Republic of South Sudan, commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding twenty years, or both.
+71. Creating Fake Emails, Websites and Electronic Accounts
+A person who intentionally creates, registers, or operates a fake email address, website, social media account, or any other electronic account for the purpose of impersonation, deception, fraud, or misleading the public commits an offence and, upon conviction, shall be liable to a fine or imprisonment for a term not exceeding five years, or both.
+72. Hacking E-payment Devices
+A person who intentionally accesses, tampers with, alters, manipulates, or interferes with any electronic payment device, including point-of-sale (POS) machines, mobile money terminals, ATMs, or any digital financial transaction system without authorization, commits an offence and upon conviction shall be liable to a fine or imprisonment for a term not exceeding seven years, or both.
 CHAPTER VII
 GENERAL PROVISIONS
-73. Co-Operation
-All public institutions, service providers and relevant stakeholders shall cooperate with the Authority and investigatory agencies in implementing this Act.
+73. Co-operation
+A public institution or a private institution shall co-operate with the Authority for the purpose of ensuring the cybersecurity of the country.
 74. General Penalty
-A person who commits an offence under this Act for which no specific penalty is provided shall be liable upon conviction to penalties prescribed by the Court.
+A person who contravenes a section of this Act for which a penalty is not provided commits an offence and shall be liable upon conviction to a fine or imprisonment for a term not exceeding five years, or both.
 75. Guidelines
-The Authority may issue guidelines, standards, procedures and advisories necessary for implementation of this Act.
+The Authority shall publish guidelines that it considers necessary for;
+(a) the identification of critical infrastructure;
+(b) the registration of critical infrastructure;
+(c) the protection of critical infrastructure;
+(d) the management of critical infrastructure;
+(e) access to, transfer and control of data in critical information infrastructure;
+(f) the storage or archiving of data or information in critical infrastructure;
+(g) reporting incidents involving critical infrastructure; and
+(h) any other matter required for the adequate protection of critical infrastructure.
 76. Directives
-The Competent Minister or the Authority may issue directives necessary for compliance with this Act.
+(1) The Authority may issue directives to an owner of a critical infrastructure, a cybersecurity service provider or service providers for the purpose of ensuring the cybersecurity of the country.
+(2) An owner of a critical information infrastructure, a cybersecurity service provider or a service provider who fails to comply with the directives issued under subsection (1) of this section shall be liable to pay to the Authority the administrative penalty prescribed under this Act.
 77. Administrative Penalties for Contraventions
-The Authority may impose administrative penalties for violations of obligations under this Act in accordance with regulations.
+The Authority shall, for the purpose of imposing an administrative penalty under this Act, take into account;
+(a) the size of the service provider concerned;
+(b) the criticality of the sector;
+(c) the impact of the contravention; and
+(d) any other relevant criterion that the Competent Minister may determine.
 78. Extradition
-Offences under this Act may constitute extraditable offences subject to applicable extradition laws and international agreements.
+Any offence under this Act is an extraditable crime for which extradition may be granted or obtained under the applicable law for extradition.
 79. Forfeiture
-The Court may order forfeiture of:
-(a) computer systems;
-(b) devices;
-(c) electronic records; or
-(d) proceeds derived from offences under this Act.
+The Court before which a person is convicted of an offence may, in addition to any other penalty imposed, order the forfeiture of any apparatus, article or device which is the subject matter of the offence or is used in connection with the commission of the offence.
 80. Regulations
-The Competent Minister may, on recommendation of the Authority, make regulations necessary for the better carrying out of the provisions of this Act.
-
+The Competent Minister may issue regulations and guidelines necessary for effective implementation of this Act.

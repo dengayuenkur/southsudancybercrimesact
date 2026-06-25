@@ -432,6 +432,62 @@
       font-size: 0.73rem; line-height: 1.65; color: #3a5570;
     }
 
+    /* ── Print Button ── */
+    .print-btn {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem; background: rgba(0,200,255,0.06);
+      color: var(--cyber); border: 1px solid rgba(0,200,255,0.2);
+      border-radius: 5px; padding: 5px 12px; cursor: pointer;
+      white-space: nowrap; transition: all 0.2s;
+    }
+    .print-btn:hover {
+      background: rgba(0,200,255,0.14); border-color: var(--cyber);
+      box-shadow: 0 0 10px rgba(0,200,255,0.15);
+    }
+
+    /* ── Reading Progress ── */
+    .progress-bar-track {
+      background: rgba(0,200,255,0.1);
+      border-radius: 4px; height: 6px; overflow: hidden; margin-bottom: 6px;
+    }
+    .progress-bar-fill {
+      height: 100%; background: var(--cyber);
+      border-radius: 4px; width: 0%;
+      transition: width 0.4s ease;
+      box-shadow: 0 0 8px rgba(0,200,255,0.5);
+    }
+    .progress-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.62rem; color: var(--txt-light); margin-bottom: 6px;
+    }
+    .progress-reset {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem; color: #3a5570; background: none;
+      border: 1px solid rgba(0,200,255,0.1); border-radius: 3px;
+      padding: 2px 7px; cursor: pointer; transition: color 0.2s, border-color 0.2s;
+    }
+    .progress-reset:hover { color: var(--cyber); border-color: rgba(0,200,255,0.3); }
+
+    /* ── Print ── */
+    @media print {
+      .hamburger, .sidebar, .overlay, .app-header, .app-footer,
+      .chapter-select-wrap, .no-print { display: none !important; }
+      body { background: #fff; color: #000; font-family: Georgia, serif; }
+      .main-content { display: block; }
+      .page-body { padding: 0; max-width: 100%; }
+      .section-card {
+        border: 1px solid #ccc; border-left: 4px solid #000;
+        box-shadow: none; margin-bottom: 20px; break-inside: avoid;
+      }
+      .section-card-head { background: #f5f5f5; }
+      .section-card-head h4, .section-num { color: #000; }
+      .section-card-body { color: #000; }
+      .chapter-header { background: #fff; border: 1px solid #000; }
+      .chapter-header h3, .ch-label { color: #000; }
+      .chapter-meta { color: #333; }
+      .print-btn { display: none !important; }
+    }
+
     /* ── Mobile ── */
     @media (max-width: 768px) {
       .hamburger { display: block; }
@@ -456,7 +512,7 @@
   </style>
   {% block head %}{% endblock %}
 </head>
-<body>
+<body data-total-sections="{{ num_sections }}">
 
   <!-- Mobile Menu Button -->
   <button class="hamburger" id="hamburger" aria-label="Toggle menu">&#9776;</button>
@@ -484,7 +540,23 @@
           <a href="/analytics" class="nav-link {{ 'active' if active == 'analytics' }}">
             <span class="icon">📊</span> Analytics
           </a>
+          <a href="/assistant" class="nav-link {{ 'active' if active == 'assistant' }}">
+            <span class="icon">🤖</span> AI Assistant
+          </a>
+          <a href="/scenario" class="nav-link {{ 'active' if active == 'scenario' }}">
+            <span class="icon">⚖️</span> Case Simulator
+          </a>
         </nav>
+
+        <div class="progress-section" id="progress-section" style="display:none; margin-bottom:20px;">
+          <div class="sidebar-section-label" style="margin-bottom:8px;">Reading Progress</div>
+          <div class="progress-bar-track">
+            <div class="progress-bar-fill" id="progress-fill"></div>
+          </div>
+          <div class="progress-label" id="progress-label"></div>
+          <button class="progress-reset" id="progress-reset" title="Reset progress">Reset</button>
+        </div>
+
         <div class="sidebar-desc">
           This platform provides structured access to the Cybercrimes and Computer Misuse Act, 2026 of the Republic of South Sudan. Browse chapters, search provisions, or view analytics.
         </div>
@@ -558,6 +630,38 @@
         overlay.classList.remove('active');
       });
     });
+  </script>
+
+  <script>
+    // ── Reading Progress Tracker ──────────────────────────────
+    const TOTAL_SECTIONS = parseInt(document.body.dataset.totalSections || '0', 10);
+
+    function getRead() {
+      try { return new Set(JSON.parse(localStorage.getItem('readSections') || '[]')); }
+      catch { return new Set(); }
+    }
+    function saveRead(set) {
+      localStorage.setItem('readSections', JSON.stringify([...set]));
+    }
+    function updateProgressUI() {
+      if (!TOTAL_SECTIONS) return;
+      const read = getRead();
+      const count = read.size;
+      const pct = Math.round((count / TOTAL_SECTIONS) * 100);
+      const section = document.getElementById('progress-section');
+      const fill    = document.getElementById('progress-fill');
+      const label   = document.getElementById('progress-label');
+      if (section) {
+        section.style.display = 'block';
+        fill.style.width  = pct + '%';
+        label.textContent = count + ' / ' + TOTAL_SECTIONS + ' sections read (' + pct + '%)';
+      }
+    }
+    document.getElementById('progress-reset')?.addEventListener('click', () => {
+      localStorage.removeItem('readSections');
+      updateProgressUI();
+    });
+    updateProgressUI();
   </script>
 
   {% block scripts %}{% endblock %}

@@ -174,12 +174,17 @@
       border-top: 3px solid var(--gold);
       box-shadow: 0 4px 24px rgba(0,0,0,0.35), 0 0 20px rgba(0,200,255,0.03);
       color: var(--white);
-      transition: border-color 0.2s, box-shadow 0.2s;
+      transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
     }
-    .metric-card:hover {
+    .metric-card-link {
+      display: block; text-decoration: none; cursor: pointer;
+    }
+    .metric-card-link:hover {
       border-color: rgba(0,200,255,0.28);
       box-shadow: 0 4px 24px rgba(0,0,0,0.35), 0 0 28px rgba(0,200,255,0.09);
+      transform: translateY(-3px);
     }
+    .metric-card-link:active { transform: translateY(0); }
     .metric-value {
       font-family: 'JetBrains Mono', monospace;
       font-size: clamp(1.8rem, 5vw, 2.4rem); font-weight: 500;
@@ -189,6 +194,13 @@
       font-size: 0.68rem; text-transform: uppercase;
       letter-spacing: 1.5px; color: var(--txt-light);
     }
+    .metric-hint {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem; color: var(--cyber); margin-top: 8px;
+      opacity: 0; transition: opacity 0.2s;
+      letter-spacing: 0.5px;
+    }
+    .metric-card-link:hover .metric-hint { opacity: 0.75; }
 
     /* ── Info Banner ── */
     .info-banner {

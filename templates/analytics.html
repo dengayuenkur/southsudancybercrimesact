@@ -54,13 +54,15 @@
 {% endblock %}
 
 {% block scripts %}
+<script type="application/json" id="chapter-data">{{ chapter_data | tojson }}</script>
+<script type="application/json" id="keyword-data">{{ keyword_data | tojson }}</script>
 <script>
   const NAVY  = '#00c8ff';
   const GOLD  = '#C9A227';
   const LIGHT = '#4d6b90';
 
-  const chapterData = {{ chapter_data | tojson }};
-  const keywordData = {{ keyword_data | tojson }};
+  const chapterData = JSON.parse(document.getElementById('chapter-data').textContent);
+  const keywordData = JSON.parse(document.getElementById('keyword-data').textContent);
 
   const chartDefaults = {
     responsive: true, maintainAspectRatio: false,
